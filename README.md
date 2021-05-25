@@ -1,2 +1,3 @@
 # Java Project
-java
+A mid-range chat application developed using java.
+# Educational purpose
